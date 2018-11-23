@@ -1,0 +1,16 @@
+[{
+  "firstName": "Иван",
+  "lastName": "Иванов",
+  "address": "г.Москва, ул. Алиева,2",
+  "phoneNumber": "812 123-1234"
+},{
+  "firstName": "Петр",
+  "lastName": "Петров",
+  "address": "г.Москва, ул. Малая Арнаутская, 21",
+  "phoneNumber": "495 123-12345"
+},{
+  "firstName": "Сидр",
+  "lastName": "Сидоров",
+  "address": "г.Ухта, ул. Ухты, 1",
+  "phoneNumber": "не провели"
+}]
